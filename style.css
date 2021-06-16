@@ -1,0 +1,129 @@
+body{
+    background-image: url('images/origamibg.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-family:monospace;
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    color: ivory;
+    font-weight: lighter;
+    padding: 50px;
+    background-image: url("images/bgbgbg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.camel{
+    position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.camelimage{
+    background-color: plum;
+    border-radius: 3pc;
+}
+.camelimage:hover{
+ background-color: rgb(218, 44, 218);
+}
+
+.chameleonimage{
+    background-color: rgb(147, 158, 211);
+    border-radius: 3pc;
+}
+
+.chameleon{
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+.chameleonimage:hover{
+  background-color: rgb(103, 129, 255);
+}
+
+.cicada{
+    position: absolute;
+    top: 180%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.cicadaimage{
+    background-color: rgb(212, 155, 138);
+    border-radius: 3pc;
+}
+
+.cicadaimage:hover{
+  background-color: rgb(197, 46, 0);
+}
+
+
+.panda{
+    position: absolute;
+    top: 235%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.pandaimage{
+    background-color: rgb(171, 212, 138);
+    border-radius: 3pc;
+}
+.pandaimage:hover{
+  background-color: rgb(101, 185, 33);
+}
+
+.pigeon{
+    position: absolute;
+    top: 287%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+
+.pigeonimage{
+    background-color:rgb(193, 154, 230);
+    border-radius: 3pc;
+}
+.pigeonimage:hover{
+  background-color: rgb(145, 42, 241);
+}
+
+.teddy{
+    position: absolute;
+    top: 340%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.teddyimage{
+    background-color:rgb(113, 198, 201);
+    border-radius: 3pc;
+
+}
+.teddyimage:hover{
+  background-color: rgb(27, 247, 255);
+}
+
+
